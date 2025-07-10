@@ -6,5 +6,6 @@ module.exports = [
     infoLink: 'https://www.appyapp.io',
     pinned: true
   }
-  // Please add your logo in alphabetical order of caption.
+  // Please add your logo in alphabetical order of caption
+  VSS
 ]
